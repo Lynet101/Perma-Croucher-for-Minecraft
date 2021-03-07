@@ -1,0 +1,13 @@
+StateVar=0
+
+#IfWinActive ahk_exe javaw.exe
+*F1::
+    If (StateVar=0){
+        Send {Shift Down}
+        StateVar=1
+    }
+    Else{
+        Send {Shift Up}
+        StateVar=0
+    }
+Return
