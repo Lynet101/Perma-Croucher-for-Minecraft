@@ -1,6 +1,6 @@
-##################################################   
-Perma Croucher for Minecraft | V 1.0 | By Sebastian Lindau-Skands  
-##################################################  
+########################################################   
+Perma Croucher for Minecraft | V 0.1 Alpha | By Sebastian Lindau-Skands  
+########################################################  
 
 Description:
 This script will toggle the shift key when "F1" is pressed, only if the process "Javaw.exe" is the current showing window,
